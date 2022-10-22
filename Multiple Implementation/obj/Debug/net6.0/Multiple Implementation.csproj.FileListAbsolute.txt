@@ -1,0 +1,15 @@
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Multiple Implementation\bin\Debug\net6.0\Multiple Implementation.exe
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Multiple Implementation\bin\Debug\net6.0\Multiple Implementation.deps.json
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Multiple Implementation\bin\Debug\net6.0\Multiple Implementation.runtimeconfig.json
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Multiple Implementation\bin\Debug\net6.0\Multiple Implementation.dll
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Multiple Implementation\bin\Debug\net6.0\Multiple Implementation.pdb
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Multiple Implementation\obj\Debug\net6.0\Multiple Implementation.csproj.AssemblyReference.cache
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Multiple Implementation\obj\Debug\net6.0\Multiple Implementation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Multiple Implementation\obj\Debug\net6.0\Multiple Implementation.AssemblyInfoInputs.cache
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Multiple Implementation\obj\Debug\net6.0\Multiple Implementation.AssemblyInfo.cs
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Multiple Implementation\obj\Debug\net6.0\Multiple Implementation.csproj.CoreCompileInputs.cache
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Multiple Implementation\obj\Debug\net6.0\Multiple Implementation.dll
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Multiple Implementation\obj\Debug\net6.0\refint\Multiple Implementation.dll
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Multiple Implementation\obj\Debug\net6.0\Multiple Implementation.pdb
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Multiple Implementation\obj\Debug\net6.0\Multiple Implementation.genruntimeconfig.cache
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Multiple Implementation\obj\Debug\net6.0\ref\Multiple Implementation.dll

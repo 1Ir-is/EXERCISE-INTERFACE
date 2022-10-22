@@ -1,0 +1,15 @@
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\EXERCISE INTERFACE\bin\Debug\net6.0\EXERCISE INTERFACE.exe
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\EXERCISE INTERFACE\bin\Debug\net6.0\EXERCISE INTERFACE.deps.json
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\EXERCISE INTERFACE\bin\Debug\net6.0\EXERCISE INTERFACE.runtimeconfig.json
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\EXERCISE INTERFACE\bin\Debug\net6.0\EXERCISE INTERFACE.dll
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\EXERCISE INTERFACE\bin\Debug\net6.0\EXERCISE INTERFACE.pdb
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\EXERCISE INTERFACE\obj\Debug\net6.0\EXERCISE INTERFACE.csproj.AssemblyReference.cache
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\EXERCISE INTERFACE\obj\Debug\net6.0\EXERCISE INTERFACE.GeneratedMSBuildEditorConfig.editorconfig
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\EXERCISE INTERFACE\obj\Debug\net6.0\EXERCISE INTERFACE.AssemblyInfoInputs.cache
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\EXERCISE INTERFACE\obj\Debug\net6.0\EXERCISE INTERFACE.AssemblyInfo.cs
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\EXERCISE INTERFACE\obj\Debug\net6.0\EXERCISE INTERFACE.csproj.CoreCompileInputs.cache
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\EXERCISE INTERFACE\obj\Debug\net6.0\EXERCISE INTERFACE.dll
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\EXERCISE INTERFACE\obj\Debug\net6.0\refint\EXERCISE INTERFACE.dll
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\EXERCISE INTERFACE\obj\Debug\net6.0\EXERCISE INTERFACE.pdb
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\EXERCISE INTERFACE\obj\Debug\net6.0\EXERCISE INTERFACE.genruntimeconfig.cache
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\EXERCISE INTERFACE\obj\Debug\net6.0\ref\EXERCISE INTERFACE.dll

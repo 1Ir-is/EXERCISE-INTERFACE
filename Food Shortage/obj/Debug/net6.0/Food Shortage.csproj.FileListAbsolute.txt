@@ -1,0 +1,15 @@
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Food Shortage\bin\Debug\net6.0\Food Shortage.exe
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Food Shortage\bin\Debug\net6.0\Food Shortage.deps.json
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Food Shortage\bin\Debug\net6.0\Food Shortage.runtimeconfig.json
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Food Shortage\bin\Debug\net6.0\Food Shortage.dll
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Food Shortage\bin\Debug\net6.0\Food Shortage.pdb
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Food Shortage\obj\Debug\net6.0\Food Shortage.csproj.AssemblyReference.cache
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Food Shortage\obj\Debug\net6.0\Food Shortage.GeneratedMSBuildEditorConfig.editorconfig
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Food Shortage\obj\Debug\net6.0\Food Shortage.AssemblyInfoInputs.cache
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Food Shortage\obj\Debug\net6.0\Food Shortage.AssemblyInfo.cs
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Food Shortage\obj\Debug\net6.0\Food Shortage.csproj.CoreCompileInputs.cache
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Food Shortage\obj\Debug\net6.0\Food Shortage.dll
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Food Shortage\obj\Debug\net6.0\refint\Food Shortage.dll
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Food Shortage\obj\Debug\net6.0\Food Shortage.pdb
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Food Shortage\obj\Debug\net6.0\Food Shortage.genruntimeconfig.cache
+E:\Advanced Programming\Bai tap\EXERCISE INTERFACE\Food Shortage\obj\Debug\net6.0\ref\Food Shortage.dll
